@@ -1,29 +1,29 @@
-Country,Abbr,Indicator,2013,2014,2015,2016,2017,2018,2020,2025_c,2025_b,2025_h
-Austria,AT,Share of Data Market on ICT Spending By Member State,9.9,10.4,10.2,11,11.4,12.3,12.2,13.3,14.2,18.8
-Belgium,BE,Share of Data Market on ICT Spending By Member State,9,11.6,10.2,10.9,11.2,12,14.6,21.9,24.8,34.8
-Bulgaria,BG,Share of Data Market on ICT Spending By Member State,4.2,9.3,9.1,11.2,11.6,12.4,14.6,20,22.2,23.6
-Croatia,HR,Share of Data Market on ICT Spending By Member State,3.3,7.7,7.2,8.1,8.6,9.7,10.8,12.2,14,14.5
-Cyprus,CY,Share of Data Market on ICT Spending By Member State,,15.3,15.7,16.4,18.7,21,23.4,35.8,38.1,38.6
-Czech Republic,CZ,Share of Data Market on ICT Spending By Member State,3.2,6.9,7,7.9,8.4,9,8.6,8.9,10.7,14.1
-Denmark,DK,Share of Data Market on ICT Spending By Member State,7.4,8.3,8.2,9.4,9.9,10.6,10.6,11.9,13.1,17.5
-Estonia,EE,Share of Data Market on ICT Spending By Member State,21.1,25.5,23.2,27.6,29.3,31.2,35.7,37.9,45.9,60.4
-Finland,FI,Share of Data Market on ICT Spending By Member State,7.3,8.4,8.2,9,9.5,10.2,9.9,10.4,11,12.8
-France,FR,Share of Data Market on ICT Spending By Member State,7.6,7.5,7.8,8.1,8.8,9.5,9.3,10.8,10.9,14.6
-Germany,DE,Share of Data Market on ICT Spending By Member State,9.6,9.7,9.9,11.1,11.9,12.7,12.4,14.2,14.8,17.7
-Greece,EL,Share of Data Market on ICT Spending By Member State,8.3,9.9,8.5,9.5,10.5,11.6,12.5,19.5,23.3,24.5
-Hungary,HU,Share of Data Market on ICT Spending By Member State,3.5,7.3,7,8.1,8.6,9.1,9.8,11.9,13.4,15.4
-Ireland,IE,Share of Data Market on ICT Spending By Member State,12.8,12.9,12.8,15.5,16.6,17.9,17.2,22.5,24,27.9
-Italy,IT,Share of Data Market on ICT Spending By Member State,8.2,8.7,8.5,8.8,9.4,10.1,10.4,10.8,12.5,18.4
-Latvia,LV,Share of Data Market on ICT Spending By Member State,12.6,15.2,13.6,14.8,16.3,18.3,20.1,21.9,25.5,26.3
-Lithuania,LT,Share of Data Market on ICT Spending By Member State,14.3,16.3,14,15.1,16,18.2,20,22.8,26.7,27.1
-Luxembourg,LU,Share of Data Market on ICT Spending By Member State,,5,4.9,5.4,5.9,6.8,7.2,10.6,11.6,15.2
-Malta,MT,Share of Data Market on ICT Spending By Member State,,13.5,13.1,14.4,15.7,16.5,17.7,22.8,24.6,28.1
-Netherlands,NL,Share of Data Market on ICT Spending By Member State,8.3,8.9,9.5,10.3,11.1,11.8,14.7,17.4,20.7,24.3
-Poland,PL,Share of Data Market on ICT Spending By Member State,4.2,8.9,8.6,11,11.3,12.3,12.7,15.7,19.9,26.2
-Portugal,PT,Share of Data Market on ICT Spending By Member State,10.5,11.3,11,12,12.8,14,14.6,16.9,19.6,22.1
-Romania,RO,Share of Data Market on ICT Spending By Member State,4.8,11.5,10.4,11.5,11.5,12,11.8,14.7,15.5,20.7
-Slovakia,SK,Share of Data Market on ICT Spending By Member State,3.6,9.5,9.2,10.8,12,13.9,16.5,21.5,27.3,36.1
-Slovenia,SI,Share of Data Market on ICT Spending By Member State,3.3,7.4,7,7.5,8.6,9.7,11.7,13.8,17,17.5
-Spain,ES,Share of Data Market on ICT Spending By Member State,7.3,7.9,7.6,8,8.6,9.1,9.1,9.8,12,15.7
-Sweden,SE,Share of Data Market on ICT Spending By Member State,8.9,9.7,9.9,10.2,11,11.7,16.9,20.2,24.8,26.8
-United Kingdom,UK,Share of Data Market on ICT Spending By Member State,7.8,7.7,8.1,10.2,11.3,12.1,12.6,13.9,15,21.6
+Country,Abbr,Indicator,2013,2014,2015,2016,2017,2018,2019,2020,2025_c,2025_b,2025_h
+Austria,AT,Share of Data Market on ICT Spending By Member State,9.9,10.4,10.2,11.0,11.4,12.5,12.5,12.5,12.7,13.7,18.1
+Belgium,BE,Share of Data Market on ICT Spending By Member State,9.0,11.6,10.2,10.9,11.2,10.8,11.0,13.4,17.2,20.0,28.9
+Bulgaria,BG,Share of Data Market on ICT Spending By Member State,4.2,9.3,9.1,11.2,11.6,12.4,13.1,15.3,20.4,22.4,24.1
+Croatia,HR,Share of Data Market on ICT Spending By Member State,3.3,7.7,7.2,8.1,8.6,10.1,10.8,11.4,12.0,13.6,14.3
+Cyprus,CY,Share of Data Market on ICT Spending By Member State,0.0,15.3,15.7,16.4,18.7,13.0,13.9,14.7,20.2,21.7,21.7
+Czech Republic,CZ,Share of Data Market on ICT Spending By Member State,3.2,6.9,7.0,7.9,8.4,8.3,8.2,8.4,7.8,9.3,12.5
+Denmark,DK,Share of Data Market on ICT Spending By Member State,7.4,8.3,8.2,9.4,9.9,10.3,10.3,10.3,10.8,11.8,15.9
+Estonia,EE,Share of Data Market on ICT Spending By Member State,21.1,25.5,23.2,27.6,29.3,31.9,33.8,36.3,37.7,45.3,60.1
+Finland,FI,Share of Data Market on ICT Spending By Member State,7.3,8.4,8.2,9.0,9.5,9.8,10.0,9.7,9.6,10.1,11.8
+France,FR,Share of Data Market on ICT Spending By Member State,7.6,7.5,7.8,8.1,8.8,9.2,9.3,9.1,9.5,9.5,12.9
+Germany,DE,Share of Data Market on ICT Spending By Member State,9.6,9.7,9.9,11.1,11.9,12.5,12.5,12.4,13.3,13.7,16.6
+Greece,EL,Share of Data Market on ICT Spending By Member State,8.3,9.9,8.5,9.5,10.5,12.3,12.7,13.3,17.9,21.4,22.8
+Hungary,HU,Share of Data Market on ICT Spending By Member State,3.5,7.3,7.0,8.1,8.6,9.5,9.7,9.8,10.6,12.0,13.7
+Ireland,IE,Share of Data Market on ICT Spending By Member State,12.8,12.9,12.8,15.5,16.6,17.3,17.6,17.7,21.1,22.6,27.1
+Italy,IT,Share of Data Market on ICT Spending By Member State,8.2,8.7,8.5,8.8,9.4,10.0,10.1,10.5,11.0,12.3,18.0
+Latvia,LV,Share of Data Market on ICT Spending By Member State,12.6,15.2,13.6,14.8,16.3,18.0,19.6,20.1,22.5,26.2,27.0
+Lithuania,LT,Share of Data Market on ICT Spending By Member State,14.3,16.3,14.0,15.1,16.0,17.8,19.3,19.6,21.1,24.8,25.1
+Luxembourg,LU,Share of Data Market on ICT Spending By Member State,0.0,5.0,4.9,5.4,5.9,11.7,12.5,12.0,11.8,12.9,16.9
+Malta,MT,Share of Data Market on ICT Spending By Member State,0.0,13.5,13.1,14.4,15.7,10.2,10.2,10.7,12.1,13.1,14.9
+Netherlands,NL,Share of Data Market on ICT Spending By Member State,8.3,8.9,9.5,10.3,11.1,11.8,11.9,14.6,16.1,19.0,22.4
+Poland,PL,Share of Data Market on ICT Spending By Member State,4.2,8.9,8.6,11.0,11.3,12.0,12.7,12.6,15.3,19.4,25.7
+Portugal,PT,Share of Data Market on ICT Spending By Member State,10.5,11.3,11.0,12.0,12.8,13.4,13.3,13.5,14.6,16.8,18.9
+Romania,RO,Share of Data Market on ICT Spending By Member State,4.8,11.5,10.4,11.5,11.5,11.7,11.9,12.0,13.8,14.7,19.6
+Slovakia,SK,Share of Data Market on ICT Spending By Member State,3.6,9.5,9.2,10.8,12.0,13.5,14.9,16.4,20.6,26.2,34.7
+Slovenia,SI,Share of Data Market on ICT Spending By Member State,3.3,7.4,7.0,7.5,8.6,9.6,10.6,11.8,13.3,16.9,17.3
+Spain,ES,Share of Data Market on ICT Spending By Member State,7.3,7.9,7.6,8.0,8.6,8.9,8.9,9.0,9.1,11.2,14.6
+Sweden,SE,Share of Data Market on ICT Spending By Member State,8.9,9.7,9.9,10.2,11.0,12.2,12.1,16.9,19.0,23.1,25.2
+United Kingdom,UK,Share of Data Market on ICT Spending By Member State,7.8,7.7,8.1,9.8,11.3,12.2,12.4,12.8,13.1,14.1,20.3
